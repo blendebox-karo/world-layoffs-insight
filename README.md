@@ -1,10 +1,6 @@
 # world-layoffs-insight
 World Layoffs Exploratory Data Analysis
 
-The SQL data exploratory analysis project utilized various SQL skills to perform an in-depth analysis of a complex dataset. By identifying trends, patterns, and outliers within the data, I was able to provide valuable insights and showcase my expertise in SQL and data analysis.
-
-Therefore, making the data ready and available for visualization.
-
 ## Table showing the world layoffs raw data
 <img width="960" alt="raw data" src="https://github.com/user-attachments/assets/5a8b2956-3424-4243-af50-286294be4841">
 
@@ -22,3 +18,8 @@ The data cleaning process was achieved using the following proceedures as stated
 
 ## Table showing the world layoffs cleaned data
 <img width="960" alt="cleaned data" src="https://github.com/user-attachments/assets/1cd8c5b4-71bf-4a27-936a-88323a075d46">
+
+## Conclusion
+An SQL data exploratory analysis project which utilized various SQL skills to perform an in-depth analysis of a complex dataset was carried out. By identifying trends, patterns, and outliers within the data, I was able to provide valuable insights and showcase my expertise in SQL and data analysis.
+
+Therefore, making the data ready and available for visualization.
