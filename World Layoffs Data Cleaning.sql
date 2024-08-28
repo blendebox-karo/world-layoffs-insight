@@ -1,8 +1,9 @@
--- Data Cleaning
+-- Data Cleaning Project
 
 SELECT *
 FROM layoffs;
 
+-- Steps towards Cleaning the data
 -- 1. Remove Duplicates
 -- 2. Standardize the Data
 -- 3. Null Values or Blank Values
